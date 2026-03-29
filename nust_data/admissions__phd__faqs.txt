@@ -1,0 +1,27 @@
+TOPIC   : phd_faqs
+URL     : https://nust.edu.pk/admissions/phd/faqs/
+SCRAPED : 2026-03-29
+============================================================
+
+# 404
+## Oh no, sorry about that!
+Something went wrong. You can still reach us at
+[+92-51-111-11-6878](tel:+9251111116878)
+[HOME](https://nust.edu.pk)
+
+============================================================
+STRUCTURED FAQs
+============================================================
+
+Q1: In Focus
+A1: > NUST at a Glance> Academic Calender> Academic Schedule> Student Helplines> Facilities at NUST> Contact Us> Trademark Notice> Offices and Resources> World Political Map
+
+Q2: Quick Links
+A2: > Innovation & Commercialisation> Library> Downloads> Defaulter's list> Grievances Review Committee> Tender Information> NUST Anti-Harassment Helpline> Online Degree/Transcript Verification> Career Development Centre
+
+Q3: NUST UAN
+A3: +92-51-111-11-6878AddressNational University of Sciences & Technology (NUST) Campus, Sector H-12, Islamabad, Pakistan
+
+Q4: Address
+A4: National University of Sciences & Technology (NUST) Campus, Sector H-12, Islamabad, Pakistan
+

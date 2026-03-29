@@ -1,0 +1,25 @@
+TOPIC   : nshs_overview
+URL     : https://nust.edu.pk/admissions/NSHS/
+SCRAPED : 2026-03-29
+============================================================
+
+# MBBS Admissions
+[NUST School of Health Sciences (NSHS)](https://nshs.nust.edu.pk/) is offering MBBS programme for the session 2025-26.
+[__Dates to Remember](https://nust.edu.pk/admissions/NSHS/dates-to-remember-mbbs/)
+[__Merit Generation Criteria](https://nust.edu.pk/admissions/NSHS/merit-generation-criteria-mbbs/)
+[__Eligibility Criteria](https://nust.edu.pk/admissions/NSHS/nshs-admission-policy/)
+[__MBBS Fee Structure (Session 2025-26)](https://nust.edu.pk/admissions/NSHS/fee-structure/)
+[__How to Apply](https://nust.edu.pk/admissions/NSHS/how-to-apply/)
+[__MBBS Admission Policy](https://nust.edu.pk/admissions/NSHS/salient-features-of-mbbs-admission-policy-2023-2024/)
+[__MBBS Admissions Help Desk](https://nust.edu.pk/admissions/NSHS/mbbs-admissions-help-desk/)
+[__Selection Process](https://nust.edu.pk/admissions/NSHS/selection-process-mbbs/)
+  * [MBBS Admissions](/admissions/nshs)
+    * [How to Apply](https://nust.edu.pk/admissions/NSHS/how-to-apply/)
+    * [Eligibility Criteria](https://nust.edu.pk/admissions/NSHS/nshs-admission-policy/)
+    * [Dates to Remember](https://nust.edu.pk/admissions/NSHS/dates-to-remember-mbbs/)
+    * [Selection Process](https://nust.edu.pk/admissions/NSHS/selection-process-mbbs/)
+    * [Merit Generation Criteria – MBBS](https://nust.edu.pk/admissions/NSHS/merit-generation-criteria-mbbs/)
+    * [MBBS Fee Structure (Session 2025-26)](https://nust.edu.pk/admissions/NSHS/fee-structure/)
+    * [MBBS Admission Policy – Cardinal Points](https://nust.edu.pk/admissions/NSHS/salient-features-of-mbbs-admission-policy-2023-2024/)
+    * [MBBS Admissions Help Desk](https://nust.edu.pk/admissions/NSHS/mbbs-admissions-help-desk/)
+    * [FAQs – MBBS Admissions](https://nust.edu.pk/faq-category/mbbs-admissions-faqs/)

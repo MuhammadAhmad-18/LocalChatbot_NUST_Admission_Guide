@@ -1,0 +1,698 @@
+TOPIC   : phd_eligibility
+URL     : https://nust.edu.pk/admissions/phd/eligibility-criteria/
+SCRAPED : 2026-03-29
+============================================================
+
+[__](https://nust.edu.pk)__[Admissions](https://nust.edu.pk/admissions) __[PhD Programs](https://nust.edu.pk/admissions/phd) __ELIGIBILITY CRITERIA
+# ELIGIBILITY CRITERIA
+* * *
+#####
+  * __
+  * [ __](https://www.facebook.com/sharer.php?u=https://nust.edu.pk/admissions/phd/eligibility-criteria/&t=ELIGIBILITY CRITERIA "Share on Facebook.")
+  * [__](https://www.linkedin.com/shareArticle?mini=true&title=ELIGIBILITY CRITERIA&url=https://nust.edu.pk/admissions/phd/eligibility-criteria/ "Share on LinkedIn")
+* * *
+General Eligibility
+---
+18 years of education in a related discipline as given below with minimum CGPA 3.0/4.0, 3.75/5.0 (in the Semester System) or First Division (in the Annual System) in M.Phil/MS/Equivalent with research work. The candidate should have completed a minimum of 30 credit hours of coursework OR 24 credit hours of coursework and 06 credit hours of thesis/research work. The percentage will be valid only if the CGPA is not mentioned in the degree/transcript.
+Must have qualified one of the following:-
+**Admission Test Title** | **Administered by** | **Minimum Requirement** | **For More Information**
+---|---|---|---
+Graduate -NUST Entrance Test (G-NET) | NUST, Pakistan | Overall score => 60% | https://gnet.nust.edu.pk
+GRE (General) Test | ETS, USA | Quantitative 130/170 | https://www.ets.org/gre/test-takers/general-test/prepare/content.html
+Verbal 130/170
+Analytical Writing 3.0/6.0
+NTS GAT (General) Test | NTS, Pakistan | Overall Score => 60% | https://www.nts.org.pk/new/GAT-G.php
+HAT Test | HEC, Pakistan | Overall Score ­=> 60% | https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/HAT.aspx
+## **For admission in PhD Business Administration at NUST Business School (NBS) only:**
+In addition to one of the above-mentioned tests, a Subject Test (with a minimum 60% score) conducted by admission Dte must be submitted before admission. The scores must be valid at the time of joining NUST.
+  * MS/MPhil/Equivalent degree must be verified by HEC.
+  * G-NET/GRE/GAT/HAT score must be valid at the start of semester date/joining date of PhD programmes.
+  * Scores of GAT (General) conducted by NTS should be valid at the start of semester.
+  * Special GAT (Gen) test conducted by NTS for other University/Organizations or scholarship will not be considered for admission.​
+  * Scores of Graduate NUST Entry Test (G-NET) conducted by NUST should be valid at the start of semester
+  * HAT conducted by HEC for admission will only be accepted.
+  * ​HAT Test conducted for scholarship will not be accepted for admission in PhD Programs.​
+  * The percentage will be valid only if CGPA is not mentioned in degree/transcript.
+## **For International Students**
+  * MS/MPhil (i.e. 18 years of education) in relevant disciplines with a minimum of 30 credit hours coursework OR 24 credit hours coursework and 06 credit hours research work.
+  * MS/MPhil with minimum CGPA 3.0/4.0, 3.75/5.0.
+Must have qualified the following: –
+  * Valid Score of GRE (General) conducted by ETS, USA (as applicable).
+    * GRE(General) conducted by ETS, USA, with following minimum score separately in each section:
+Quantitative | 130/170​
+---|---
+Verbal​ | 130/170​
+Analytical Writing | 3.0/6.0​
+  * Foreign candidates can also attend Graduate -NUST Entrance Test (G-NET) after submission of PhD admission application.
+  * G-NET/GRE/GAT/HAT score must be valid at the start of semester date/joining date of PhD programmes.
+  * Foreign qualified candidates have to obtain recognition and equivalence certificate of MS/MPhil from HEC.
+#### **1\. APPLIED BIOSCIENCES**
+  * **Applied Biosciences**
+MS/MPhil/Equivalent in the following:-
+Biosciences
+Agrisciences
+Bioinformatics
+Biochemistry
+Pharmacy
+Chemistry
+Chemical Biology
+Biotechnology
+Bio Engineering
+Zoology (Animal Sciences)
+Botany (Plant sciences)
+Medical Lab technologies
+Biomedical sciences
+Agribusiness
+Public health
+Animal nutrition
+Poultry Sciences
+  * **Bioinformatics
+**
+MS/MPhil/Equivalent in the following:-
+Bioinformatics
+Biological Sciences
+Computer Sciences
+Physical Sciences
+Biotechnology
+Pharmacy
+#### **​​2. NATURAL SCIENCES**
+  * **Chemistry**
+MS/MPhil/Equivalent in the following:-
+Chemistry
+Chemical Engineering
+Materials Engineering
+  * **Mathematics**
+MS/MPhil/Equivalent in the following:-
+Mathematics
+Physics
+Computer Science
+Computational Science and Engineering
+Electronics
+Statistics with BS in Mathematics
+Electrical Engineering
+Mechanical Engineering
+Mechatronics Engineering
+Computer Engineering
+Software Engineering
+Aerospace Engineering
+Avionics Engineering
+  * **Applied Mathematics**
+MS/MPhil/Equivalent in Applied Mathematics:-
+Mathematics
+Physics
+Computer Science
+Data Science
+Material Science
+Electrical
+Mechanical
+Mechatronics
+Computer
+Manufacturing
+Aerospace
+Avionics
+Electronics
+Software
+  * **Physics**
+MS/MPhil/Equivalent in the following:-
+Physics
+Mathematics
+Electrical Engineering
+Mechanical Engineering
+Materials Engineering​
+  * **Statistics**
+MS/MPhil/Equivalent in the following:-
+Statistics
+Mathematics
+Data Science
+Economics
+#### **​​3. ENGINEERING / SCIENCES**
+  * **Electrical Engineering**
+MS/MPhil/Equivalent in the following:-
+Electrical Engineering
+Electronics Engineering
+Telecom Engineering
+Power Engineering
+Computer Engineering
+Robotics & Artificial Intelligence
+Physics
+Energy Systems Engineering
+Biomedical Engineering
+Industrial Engineering
+Automotive Engineering
+Textile Engineering
+Computational Mechanics
+Mechatronics Engineering
+Aerospace Engineering
+Avionics Engineering
+Systems Eng
+Computer Science
+Computer Software Engineering
+Manufacturing Engineering
+Renewable Energy Systems
+Nuclear Power Engineering
+Mathematics
+Cyber Security
+Networking
+IT
+Software Engineering
+Information Security
+  * **Computer Engineering**
+MS/MPhil/Equivalent in the following:-
+Computer Engineering
+Electrical Engineering
+Mechatronics Engineering
+Telecom Engineering
+Biomedical Engineering
+Electronics Engineering
+Applied Mathematics
+Textile Engineering
+Computational Mechanics
+Mechatronics Engineering
+Mathematics
+Industrial Engineering
+Physics
+Automotive Engineering
+Aerospace Engineering
+Avionics Engineering
+Systems Engineering
+Computer Science
+Computer Software Engineering
+Manufacturing Engineering
+Renewable Energy Systems
+  * **Mechanical Engineering**
+MS/MPhil/Equivalent in the following:-
+Mechanical Engineering
+Manufacturing Engineering
+Automobile/ automotive Engineering
+Aerospace Engineering
+Mechatronics Engineering
+Industrial Engineering
+Agriculture field Engineering
+Computational Science & Engineering
+Materials Engineering
+Systems Engineering
+Civil Engineering
+Biomedical Engineering
+Design and Manuf Engineering
+Chemical Engineering
+Polymer Engineering
+Systems Engineering
+Textile Engineering
+Control Engineering Robotics & AI
+Power Engineering
+Energy Systems Engineering
+Comp. Mechanics
+Mathematics
+Avionics Engineering
+Physics
+Computer Science
+Naval Architecture
+Textile Engineering
+Petroleum Engineering
+Metallurgy
+Engineering Management
+Machine Engineering / Technology
+Mining Engineering
+Mathematics
+Nuclear
+Electrical
+Physics, Chemistry
+Automotive Engineering
+  * **Design & Manufacturing Engineering**
+MS/MPhil/Equivalent in the following:-
+​Mechanical Engineering
+Manufacturing Engineering
+Design Engineering
+Industrial Engineering
+Mechatronics Engineering
+Agriculture Engineering
+Software/Computer Engineering
+Controls Engineering
+Industrial& Manufacturing Engineering
+Automotive Engineering
+Aerospace Engineering
+Telecom Engineering
+Biomedical Engineering
+  * **Robotics and Artificial Intelligence**
+MS/MPhil/Equivalent in the following:-
+Robotics and Intelligent Machine Engineering
+Mechatronics Engineering
+Electrical Engineering
+Mechanical or Computer Engineering
+Software Engineering
+Controls Engineering
+Manufacturing Engineering
+Industrial Engineering
+Automotive Engineering
+Aerospace Engineering
+Telecom Engineering
+Biomedical Engineering
+Agriculture Engineering
+Computer Science
+  * **Environmental Engineering**
+MS/MPhil/Equivalent in the following:-
+Environmental Engineering ·
+Civil Engineering ·
+Chemical Engineering ·
+Agricultural Engineering
+Water Resources Engineering & Management
+Remote Sensing & GIS
+Nanoscience and Engineering
+  * **​​ Environmental Sciences**
+​ MS/MPhil/Equivalent in the following:-
+Environmental Sciences
+Biological Sciences
+Medical Sciences
+Agricultural Sciences
+Urban and Regional Planning
+  * **Mechatronics Engineering**
+MS/MPhil/Equivalent in the following:-
+Mechatronics Engineering
+Electrical Engineering
+Mechanical Engineering
+Robotics Engineering
+Manufacturing Engineering
+Industrial Engineering
+Automotive Engineering
+Aerospace Engineering
+Avionics Engineering
+Systems Engineering
+Telecom Engineering
+Computer Software Engineering
+Electronics
+Biomedical Engineering
+Electronics Engineering
+Agriculture Engineering
+Textile Engineering
+Control Engineering
+System Engineering
+Material Engineering
+Computational Science & Engineering
+Software Engineering
+Computer Engineering
+Electrical Engineering (Power)
+Energy System Engineering
+Computer Engineering
+System Control Engineering
+Computer Science
+Physics
+  * **Energetic Material Engineering**
+MS/MPhil/Equivalent in the following:-
+​Chemical Engineering
+Mechanical / Mining Engineering
+Petroleum Engineering
+Environmental Engineering
+Marine Engineering
+Physics/Chemistry/Applied Mathematics or equivalent
+  * **Materials and Surface Engineering​**
+MS/MPhil/Equivalent in Materials and Surface Engineering.​
+  * **Transportation Engineering**
+MS/MPhil/Equivalent in the following:-
+Civil Engineering
+Geotechnical Engineering
+Transportation Engineering
+Structural Engineering
+  * **Construction Engineering & Management**
+MS/MPhil/Equivalent in the following:-
+Construction Engineering & Management
+Engineering Management
+Project Management
+Civil Engineering
+Architecture Engineering
+Environmental Engineering
+Geographical Information Systems (GIS)
+  * **Structural Engineering**
+MS/MPhil/Equivalent in the following:-
+Civil Engineering
+Geotechnical Engineering
+Transportation Engineering
+Structural Engineering
+Arch Engineering
+Building Engineering
+Material Engineering (Civil)
+  * **Geotechnical Engineering**
+MS/MPhil/Equivalent in the following:-
+Civil Engineering
+Geological Engineering
+Geotechnical Engineering,
+  * **Computational Sciences & Engineering**
+MS/MPhil/Equivalent in the following:-
+Engineering
+Natural Sciences
+Computer Science
+Geology
+Biosciences
+Electronics
+Pharmacy
+Aerospace Engineering
+Biochemistry
+Biomedical Engineering
+Biomedical Sciences
+Chemical Engineering
+Chemistry
+Computational Engineering
+Computational Physics
+Computational Science
+Computer Engineering
+Electrical Engineering
+Environmental Engineering
+Information Technology
+Materials Engineering
+Mathematics
+Mechanical Engineering
+Mechatronics Engineering
+Modeling & Simulation
+Nuclear Engineering
+Physics
+Software Engineering
+Statistics
+System Engineering
+  * **Engineering Management**
+MS/MPhil/Equivalent in the following:-
+Construction Management
+Environmental Engineering Management
+Energy Management
+Supply Chain Management
+Industrial Engineering
+Maintenance Management
+Manufacturing Engineering
+Manufacturing Management
+Systems Engineering
+Innovation Management
+Technology Management
+Project Management
+  * **Water Resources & Hydropower Engineering **
+MS/MPhil/Equivalent in the following:-
+Water Resources Engineering & Management
+Water Resources Engineering
+Civil Engineering
+Agricultural Engineering
+Environmental Engineering
+Remote Sensing & GIS (having BS in Civil or Agricultural Engineering)
+Meteorology (having BS in Civil or Agricultural Engineering)
+  * **Urban & Regional Planning**
+MS/MPhil/Equivalent in the following:-
+City & Regional Planning
+Urban & Regional Planning
+Architecture
+  * **Remote Sensing & GIS**
+MS/MPhil/Equivalent in the following:-
+Remote Sensing & GIS
+Space Sciences
+Geodesy, Cartography
+Geospatial technologies
+Digital Earth
+Geoinformation
+Geomatics / Geoinformatics Engineering
+  * **Biomedical Engineering**
+MS/MPhil/Equivalent in the following:-
+Biomedical Engineering
+Electrical Engineering
+Mechanical Engineering
+Mechatronics Engineering
+Computer Engineering
+Materials Engineering
+Software Engineering
+Computational Science & Engineering
+Computer Science
+  * **Biomedical Sciences**
+MS/MPhil/Equivalent in the following:-
+Biomedical Sciences
+Molecular Biology
+Biochemistry
+Biotechnology
+Applied Biosciences
+Computer Science
+Genetics
+Rehabilitation Sciences
+Orthotics & Prosthetics
+Dental Sciences
+Physiotherapy
+Public Health
+  * **Chemical Engineering**
+MS/MPhil/Equivalent in the following:-
+Chemical Engineering
+Polymer Engineering
+Environmental Engineering
+Petroleum Engineering
+Materials Engineering
+Mechanical Engineering
+Chemistry
+Computational Sciences and Engineering
+Energy Systems Engineering
+  * **Nanosciences & Engineering**
+MS/MPhil/Equivalent in the following:-​
+​​Materials Science and Engineering
+Chemistry
+Physics
+Chemical Engineering
+Biosciences
+Computational Science & Engineering
+Mechanical Engineering
+  * **Energy Systems Engineering**
+MS/MPhil/Equivalent in the following:-
+Chemistry
+Physics
+Electronics
+Environmental/Energy Science
+Computational Science and Engineering
+Agriculture Sciences
+Applied Biosciences
+Economics and Policy
+  * **Manufacturing Engineering and Management**
+MS/MPhil/Equivalent in Engineering disciplines.
+  * **Aerospace Engineering**
+MS/MPhil/Equivalent in the following:-​
+Aerospace Engineering
+Mechanical Engineering
+Civil Engineering
+Materials Engineering
+Electrical Engineering
+Avionics Engineering
+  * **Avionics Engineering**
+MS/MPhil/Equivalent in the following:-
+Avionics
+Electrical
+Electronics
+Computer
+Software
+Mechatronics
+Aerospace
+Telecom
+Robotics
+Systems
+Computer/Computational Scienc​​​e
+  * **​ Electrical Engineering (Power)**
+MS/MPhil/Equivalent in the following:-
+Computer Sciences/IT/AI/Machine Learning
+Economics and Policy
+  * **​Mining Engineering**
+MS/MPhil/Equivalent in the following:-
+Geotechnical Engineering
+Mining Engineering
+Geological Engineering
+GIS/Remote Sensing
+Civil Engineering
+Geology/Management Field
+  * **​Thermal Energy Engineering**
+MS/MPhil/Equivalent in the following:-
+Physics
+Chemistry
+Environmental/Energy Science
+Computational Science and Engineering
+Economics and Policy
+#### **​​4. COMPUTER & IT**
+  * **Software Engineering**
+MS/MPhil/Equivalent in the following:-
+Software Engineering
+Computer Engineering
+Telecom Engineering
+Electrical Engineering
+Computer Science
+Information Technology
+Avionics
+Mathematics
+  * **Information Security**
+MS/MPhil/Equivalent in the following:-
+Data Science
+Artificial Intelligence
+Information Security
+Computer Science
+Information Technology
+Software Engineering
+Electrical Engineering
+Telecom Engineering
+Computer Engineering
+Avionics
+  * **Information Technology**
+MS/MPhil/Equivalent in the following:-
+Data Science
+Artificial Intelligence
+Computer Science
+Software Engineering
+Computer Engineering
+Telecom Engineering
+Electrical Engineering
+Information Technology
+  * **Computer Science**
+MS/MPhil/Equivalent in the following:-
+Information Security
+Data Science
+Artificial Intelligence
+Computer Science
+Software Engineering
+Information Technology
+  * **Artificial Intelligence**
+MS/MPhil/Equivalent in the following:-
+Data Science
+Artificial Intelligence
+Computer Science
+Engineering
+  * **AI & Autonomous Systems**
+MS/MPhil/ Equivalent in the following:-
+Engineering
+Computing
+Electronics
+Mathematics
+Physics
+  * **Climate Change and Sustainable Development**
+MS/MPhil/ Equivalent in the following:-
+Engineering
+Natural Sciences
+Business
+Health Sciences
+Life Sciences
+Economics
+Development studies
+Law
+Sociology
+Sustainable development
+Information Science
+Business studies
+Environmental Studies
+Geography
+#### **​5. SOCIAL SCIENCES**
+  * **Economics**
+MS/MPhil/Equivalent in Economics.
+  * **Business Administration**
+MS/MPhil/Equivalent in the following:-
+Business Administration
+Management Sciences
+Financial Economics
+Computer Sciences
+Engineering Management
+Industrial Engineering.
+  * **Peace & Conflict Studies**
+MS/MPhil/Equivalent in the following:-
+Peace and Conflict Studies
+Political Science
+International Relations,
+Public Policy
+Strategic Studies
+  * **International Relations**
+MS/MPhil/Equivalent in the following:-
+Defence and Strategic Studies
+War Studies
+International Relations
+Political Science
+Development Sciences
+History
+Defence and Diplomatic Studies
+Peace & Conflict Studies
+Public Policy
+Pakistan Studies
+  * **Psychology**
+MS/MPhil/Equivalent in Psychology.
+  * **Development Studies**
+MS/MPhil/Equivalent in the following:-
+Development Studies
+Public Policy
+Economics
+Sustainably Science
+Climate Change
+Social Work and Community Development
+Peace-Conflict and Development
+Social Sciences
+  * [Undergraduate Programmes](/admissions/undergraduates/)
+    * [How to Apply for NET](https://ugadmissions.nust.edu.pk/)
+    * [ENTRY ROUTE TO NUST](https://nust.edu.pk/admissions/undergraduates/entry-route-to-nust/)
+    * [UPDATES ON UG ADMISSIONS](https://nust.edu.pk/admissions/undergraduates/updates-on-ug-admissions/)
+    * [LIST OF UG PROGRAMMES AND INSTITUTIONS](https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions/)
+    * [SALIENT FEATURES OF ADMISSION POLICY FOR UG PROGRAMMES](https://nust.edu.pk/admissions/undergraduates/salient-features/)
+    * [DATES TO REMEMBER](https://nust.edu.pk/admissions/undergraduates/dates-to-remember/)
+    * [EXPATRIATE STUDENTS](https://nust.edu.pk/admissions/undergraduates/expatriate-students/)
+    * [ELIGIBILITY CRITERIA FOR UG PROGRAMMES](https://nust.edu.pk/admissions/undergraduates/eligibility-criteria-for-ug-programmes/)
+    * [INELIGIBILITY CRITERIA](https://nust.edu.pk/admissions/undergraduates/ineligibility-criteria/)
+    * [ACADEMIC QUALIFICATION REQUIRED FOR DIFFERENT UG PROGRAMMES](https://nust.edu.pk/admissions/undergraduates/academic-qualification-required-for-different-ug-progammes/)
+    * [DAE – Eligibility Criteria](https://nust.edu.pk/admissions/undergraduates/dae-eligibility-criteria/)
+    * [PROCEDURE OF ADMISSION ON THE BASIS OF NET](https://nust.edu.pk/admissions/undergraduates/procedure-of-admission-on-the-basis-of-net/)
+    * [SUBJECTS INCLUDED IN NET WITH WEIGHTINGS](https://nust.edu.pk/admissions/undergraduates/subjects-included-in-net-with-weightings/)
+    * [MERIT GENERATION CRITERIA](https://nust.edu.pk/admissions/undergraduates/merit-criteria-for-admission-on-net-basis/)
+    * [RE-CHECKING OF NET PAPERS](https://nust.edu.pk/admissions/undergraduates/re-checking-of-net-papers/)
+    * [APPLYING ON THE BASIS OF ACT/SAT](https://nust.edu.pk/admissions/undergraduates/applying-on-the-basis-of-scholastic-aptitude-test-sat/)
+    * [NET APPLICATION PROCESSING FEE](https://nust.edu.pk/admissions/undergraduates/ug-admission-application-processing-fee/)
+    * [UNDERGRADUATE ADMISSION / SELECTION PROCESS](https://nust.edu.pk/admissions/undergraduates/undergraduate-selection-process/)
+    * [International Students](https://nio.nust.edu.pk/admissions/international-student-admissions/)
+    * [CANCELLATION OF ADMISSION](https://nust.edu.pk/admissions/undergraduates/cancellation-of-admission/)
+    * [Migration & Transfer Policy](https://nust.edu.pk/admissions/undergraduates/migration-transfer-policy/)
+    * [UG ADMISSIONS HELP DESK](https://nust.edu.pk/admissions/undergraduates/ug-admissions-help-desk/)
+    * [GUIDE MAP FOR TEST VENUE](https://nust.edu.pk/admissions/undergraduates/guide-map-for-test-venue/)
+    * [UG AWARENESS DRIVES](https://nust.edu.pk/admissions/undergraduates/ug-awareness-drives/)
+    * [NUST OUTREACH PROGRAMME](https://nust.edu.pk/admissions/undergraduates/nust-outreach-programme-2021/)
+    * [Frequently Asked Question (FAQs)](https://nust.edu.pk/faq-category/ug-admission/)
+    * [Photo Gallery](https://nust.edu.pk/photo_category/ug-admission/)
+  * [Master Programmes](/admissions/masters/)
+    * [ADMISSION ANNOUNCEMENT](https://nust.edu.pk/admissions/masters/admission-announcement/)
+    * [DATES TO REMEMBER](https://nust.edu.pk/admissions/masters/dates-to-remember/)
+    * [CANCELLATION OF ADMISSION](https://nust.edu.pk/admissions/masters/cancellation-of-admission/)
+    * [INTERNATIONAL STUDENTS](https://nust.edu.pk/admissions/masters/international-students/)
+    * [INSTRUCTIONS FOR ONLINE APPLICATION FORM](https://nust.edu.pk/admissions/masters/instructions-for-online-application-form/)
+    * [PROGRAMMES OF STUDY](https://nust.edu.pk/admissions/masters/programs-of-study/)
+    * [ELIGIBILITY CRITERIA](https://nust.edu.pk/admissions/masters/eligibility-criteria/)
+    * [ADMISSION PROCESS AND SELECTION PROCEDURE](https://nust.edu.pk/admissions/masters/admission-process-and-selection-procedure/)
+    * [EXPATRIATE STUDENT](https://nust.edu.pk/admissions/masters/expatriate-student/)
+    * [MS HELPLINE](https://nust.edu.pk/admissions/masters/pg-helpline/)
+    * [FAQs](https://nust.edu.pk/admissions/masters/faqs/)
+  * [PhD Programmes](/admissions/phd/)
+    * [PhD ADMISSIONS](https://nust.edu.pk/admissions/phd/phd-admissions-fall-2026/)
+    * [PROGRAMMES OFFERED](https://nust.edu.pk/admissions/phd/phd-programmes-of-study/)
+    * [EXPATRIATE STUDENT – PHD](https://nust.edu.pk/admissions/phd/expatriate-student-phd/)
+    * [INTERNATIONAL PhD CANDIDATE](https://nust.edu.pk/admissions/phd/international-students/)
+    * [INSTRUCTIONS FOR FILLING ADMISSION FORM](https://nust.edu.pk/admissions/phd/instructions-for-filling-online-application-form/)
+    * [DATES TO REMEMBER](https://nust.edu.pk/admissions/phd/phd-admission-dates-to-remember/)
+    * [FREQUENTLY ASKED QUESTIONS (FAQs)](https://nust.edu.pk/admissions/phd/frequently-asked-questions-faqs/)
+    * [ELIGIBILITY CRITERIA](https://nust.edu.pk/admissions/phd/eligibility-criteria/)
+  * [Scholarships](/admissions/scholarships/)
+    * [DEFERMENT OF TUITION FEE & SUBSISTENCE ALLOWANCE](https://nust.edu.pk/?post_type=scholarship&p=959)
+    * [FINANCIAL ASSISTANCE FOR UNDERGRADUATE STUDENTS](https://nust.edu.pk/admissions/scholarships/financial-assistance-for-undergraduate-students/)
+    * [FREQUENTLY ASKED QUESTIONS (FAQS)](https://nust.edu.pk/admissions/scholarships/frequently-asked-questions-faqs/)
+    * [GUIDELINES TO SUBMIT NEED BASED FINANCIAL AID APPLICATION FORM (NFAAF)](https://nust.edu.pk/admissions/scholarships/guidelines-to-access-and-submit-need-based-financial-aid-application-form-nfaaf/)
+    * [INTEREST FREE LOAN (IHSAN TRUST)](https://nust.edu.pk/admissions/scholarships/interest-free-loan-ihsan-trust/)
+    * [MERIT BASED SCHOLARSHIPS FOR MASTERS AND PhD](https://nust.edu.pk/?post_type=scholarship&p=996)
+    * [NEED BASED FINANCIAL AID](https://nust.edu.pk/admissions/scholarships/need-based-financial-aid/)
+    * [NFAAF- DOCUMENTATION REQUIREMENTS](https://nust.edu.pk/admissions/scholarships/nfaaf-documentation-requirements/)
+    * [FORMS AND CERTIFICATES](https://nust.edu.pk/admissions/scholarships/nnbs-and-hec-scholarship-forms/)
+    * [OTHER OPPORTUNITIES](https://nust.edu.pk/admissions/scholarships/other-opportunities/)
+    * [PUNJAB EDUCATIONAL ENDOWMENT FUND (PEEF) SCHOLARSHIPS 2024-25](https://nust.edu.pk/admissions/scholarships/punjab-educational-endowment-fund-peef-scholarships/)
+  * [Fee Structure](/admissions/fee-structure/)
+    * [UNDERGRADUATE FINANCIAL MATTERS](https://nust.edu.pk/admissions/fee-structure/undergraduate-financial-matters/)
+    * [POSTGRADUATE FINANCIAL MATTERS](https://nust.edu.pk/admissions/fee-structure/postgraduate-financial-matters/)
+    * [REFUND POLICY](https://nust.edu.pk/admissions/fee-structure/refund-policy/)
+    * [ADVANCE TAX ON PAYMENT OF FEE](https://nust.edu.pk/admissions/fee-structure/advance-tax-on-payment-of-fee/)
+    * [HOSTEL ACCOMMODATION](https://nust.edu.pk/admissions/fee-structure/hostel-accommodation/)
+    * [MODE OF PAYMENT](https://nust.edu.pk/admissions/fee-structure/mode-of-payment/)
+    * [OTHER FEE CHARGES](https://nust.edu.pk/admissions/fee-structure/other-fee-charges/)
+    * [CONTACT US](https://nust.edu.pk/admissions/fee-structure/contact-us/)
+    * [FREQUENTLY ASKED QUESTIONS](https://nust.edu.pk/admissions/fee-structure/frequently-asked-questions/)
+    * [Salient Features of Fee Policy](https://nust.edu.pk/downloads/salient-features-of-fee-policy/)
+* * *
+#####
+  * __
+  * [ __](https://www.facebook.com/sharer.php?u=https://nust.edu.pk/admissions/phd/eligibility-criteria/&t=ELIGIBILITY CRITERIA "Share on Facebook.")
+  * [__](https://www.linkedin.com/shareArticle?mini=true&title=ELIGIBILITY CRITERIA&url=https://nust.edu.pk/admissions/phd/eligibility-criteria/ "Share on LinkedIn")
+* * *
+  * __
+  * [__]( https://www.facebook.com/nustofficial "facebook")
+  * [__](https://www.linkedin.com/school/nationaluniversityofsciencesandtechnology/ "linkedin")
+  * [__](https://www.youtube.com/c/NUSTOfficial "youtube")
+  * [__](https://www.instagram.com/nustgram/ "instagram")

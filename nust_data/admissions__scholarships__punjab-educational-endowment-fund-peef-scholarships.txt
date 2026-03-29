@@ -1,0 +1,28 @@
+TOPIC   : scholarship_peef
+URL     : https://nust.edu.pk/admissions/scholarships/punjab-educational-endowment-fund-peef-scholarships/
+SCRAPED : 2026-03-29
+============================================================
+
+PEEF has allocated 20% of its total scholarships to Special Quota(SQ) category. The Special Quota Scholarships are awarded under five categories.
+  * Orphans
+  * Children of government employees of BPS 1-4 (Children of Both Serving and Retired Govt. servants are eligible )
+  * Children belonging to minority religion
+  * Special Children (Disabled)
+  * The Children of civilians martyred in terrorist’s attacks
+  * Children of divorced mothers
+## **Eligibility Criteria**
+  * Students belonging to the relevant special quota category are eligible to apply.
+  * Students who scored at least 60% marks in the Matriculation/Intermediate exams of 2024 (annual), conducted under the Board of Intermediate and Secondary Education or Federal Board of Intermediate and Secondary Education.
+  * Students from Federal Government or private registered educational institutions located within the Punjab province can apply.
+  * Must be enrolled in a full-time (regular) registered educational institution for Intermediate or Graduation in 2024.
+  * Parents’ total monthly income should be Rs. 60,000 or less.
+  * Children of government employees in Grades 1 to 4 (if the source of income is only salary) are exempted from the Rs. 60,000 income limit.
+## Process for the Award of Scholarships
+## Graduation Level
+  * Newspaper advertisement is released and applications are invited from students to [apply online](https://student.peef.org.pk/specialquotaRegistration/) with in due date.
+  * The applications received are scrutinized and eligible students are shortlisted against scholarships allocated for each district, category and gender.
+  * Intimation letters and scholarship application forms are sent at the residential addresses of the shortlisted students.
+  * shortlisted students fills in and return back the scholarship application forms to PEEF.
+  * All the received forms are scrutinized and verified.
+  * District, category and gender wise merit lists are prepared for the award of scholarships.
+  * Scholarships are awarded through the respective educational institutions where PEEF scholars are currently enrolled.

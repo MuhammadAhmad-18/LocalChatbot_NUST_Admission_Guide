@@ -1,0 +1,41 @@
+TOPIC   : fee_other
+URL     : https://nust.edu.pk/admissions/fee-structure/other-fee-charges/
+SCRAPED : 2026-03-29
+============================================================
+
+[__](https://nust.edu.pk)__[Admissions](https://nust.edu.pk/admissions) __[Fee Structure](https://nust.edu.pk/admissions/fee-structure) __OTHER FEE CHARGES
+OTHER FEE CHARGES
+---
+The information contains Migration Transfer Fee such as processing fee, migration from foreign universities, migration from local universities and transfer within NUST. The other information contains Transcript fee (in case of Normal and Urgent Category), course repetition fee, fines for late payment of tuition fees. It is noted that all fees and other charges are subject to revision from time to time.
+### Migration/Transfer Fee (PKR)
+  * Processing Fee 5,000
+  * Migration from foreign universities 250,000
+  * Migration from local universities 100,000
+  * Transfer within NUST 5,000
+### Transcript Fee
+The student shall be required to pay Transcript fee as under: | ​S.No | Category​ | Charges Per Copy (Rs.)​ | Processing Fee (once) (Rs.)​ | Total (Rs.)​
+---|---|---|---|---
+​1. | ​Normal | 500​ | NIL​ | 500​
+​2. | Urgent​ | ​500 | 500​ | 1000​
+### Charges for Verification of Degree/Transcript
+  * ​Charges for Student Rs. 700/Copy
+  * Charges for Local Organization Rs. 1000/Copy
+  * Charges for Foreign Organization USD 25/Copy
+###
+### Course Repetition Fee
+The student shall be required to pay **Rs. 8,000/per credit hour** for the repeated course.
+### Fines for late payment of tuition fees
+The following fines will be levied for payments after due date:
+Period​ | Fine​
+---|---
+​Within 15 days after due date * | 2 % of the total payable amount​
+16th day from start of semester * | Registration shall be suspended.
+For re-activation of registration, student will be required to pay the Admission Processing Fee again along with all outstanding charges and fines.
+*In any case student will not be able to attend classes till clearance of dues.
+Note: All fees and other charges are subject to revision from time to time.
+​​
+  * __
+  * [__]( https://www.facebook.com/nustofficial "facebook")
+  * [__](https://www.linkedin.com/school/nationaluniversityofsciencesandtechnology/ "linkedin")
+  * [__](https://www.youtube.com/c/NUSTOfficial "youtube")
+  * [__](https://www.instagram.com/nustgram/ "instagram")

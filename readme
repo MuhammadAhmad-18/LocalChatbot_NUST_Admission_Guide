@@ -1,0 +1,192 @@
+# 🎓 NUST Admissions Chatbot — Setup Guide
+
+A fully **local, offline** AI chatbot for NUST admission guidance.
+No internet needed after setup. No API keys. No cloud.
+
+---
+
+## 📋 Requirements
+
+| Requirement | Minimum                           | Recommended     |
+| ----------- | --------------------------------- | --------------- |
+| RAM         | 8 GB                              | 16 GB           |
+| Storage     | 5 GB free                         | 10 GB           |
+| OS          | Windows 10 / Ubuntu 20 / macOS 12 | Any             |
+| Python      | 3.10+                             | 3.11            |
+| GPU         | Not required                      | NVIDIA (faster) |
+
+---
+
+## 🚀 Step-by-Step Setup
+
+### Step 1 — Install Ollama
+
+Ollama runs AI models locally on your machine.
+
+**Windows / macOS:**
+Download from https://ollama.com/download and install.
+
+**Linux:**
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+### Step 2 — Download AI Models
+
+Open a terminal and run:
+
+```bash
+# The main language model (~4.7 GB)
+ollama pull llama3.1:8b
+
+# The embedding model (~274 MB)
+ollama pull nomic-embed-text
+```
+
+Wait for both to download completely.
+
+### Step 3 — Set Up Python Environment
+
+```bash
+# Create a virtual environment (recommended)
+python -m venv nust_env
+
+# Activate it
+# Windows:
+nust_env\Scripts\activate
+# Linux/macOS:
+source nust_env/bin/activate
+
+# Install all dependencies
+pip install -r requirements.txt
+
+# Install Playwright browser (for scraping JS pages)
+playwright install chromium
+```
+
+### Step 4 — Scrape NUST Data
+
+```bash
+python nust_scraper.py
+```
+
+This will:
+
+- Visit 50+ NUST admissions pages
+- Extract all text content and FAQs
+- Save everything to the `nust_data/` folder
+- Takes about 5–10 minutes (has polite delays)
+
+### Step 5 — Build the Knowledge Base
+
+```bash
+python ingest.py
+```
+
+This will:
+
+- Read all scraped files from `nust_data/`
+- Split them into chunks
+- Create embeddings using Ollama
+- Save the vector database to `nust_db/`
+- Takes about 2–5 minutes
+
+### Step 6 — Run the Chatbot
+
+```bash
+# Make sure Ollama is running (open a separate terminal)
+ollama serve
+
+# In your main terminal, run the chatbot
+streamlit run chatbot.py
+```
+
+Open your browser at: **http://localhost:8501**
+
+---
+
+## 📁 Project Structure
+
+```
+nust-chatbot/
+│
+├── nust_scraper.py      ← Scrapes NUST website
+├── ingest.py            ← Builds vector database
+├── chatbot.py           ← Main chatbot UI
+├── requirements.txt     ← Python dependencies
+│
+├── nust_data/           ← Created by scraper
+│   ├── *.txt            ← Scraped page content
+│   ├── _all_faqs.txt    ← All FAQs combined
+│   └── _scrape_report.json
+│
+└── nust_db/             ← Created by ingest.py
+    ├── chroma.sqlite3   ← Vector index
+    └── [uuid folders]/  ← Embedding data
+```
+
+---
+
+## 🔄 Updating the Data
+
+When NUST updates their website (new admissions cycle, new fees, etc.):
+
+```bash
+# 1. Re-scrape the website
+python nust_scraper.py
+
+# 2. Rebuild the database
+python ingest.py
+
+# 3. Restart the chatbot
+streamlit run chatbot.py
+```
+
+---
+
+## ⚙️ Customization
+
+### Change the AI Model
+
+In `chatbot.py`, line 18:
+
+```python
+LLM_MODEL = "llama3.1:8b"    # Default
+# Options:
+# LLM_MODEL = "mistral:7b"    # Slightly faster
+# LLM_MODEL = "llama3.1:70b"  # Much better, needs 40GB RAM
+# LLM_MODEL = "phi3:mini"     # Very fast, smaller model
+```
+
+### Change Answer Style
+
+In `chatbot.py`, edit the `system_prompt` variable to adjust
+how the assistant responds.
+
+### Add More Data
+
+Place any additional `.txt` files in `nust_data/` and re-run `ingest.py`.
+Great additions: printed brochures, handbooks, admission policies.
+
+---
+
+## 🐛 Troubleshooting
+
+| Problem                         | Fix                                                   |
+| ------------------------------- | ----------------------------------------------------- |
+| `Connection refused` on startup | Run `ollama serve` in a separate terminal             |
+| `Database not found` error      | Run `python ingest.py` first                          |
+| Scraper gets 403 errors         | Normal — Playwright fallback handles it automatically |
+| Slow responses                  | Normal for CPU-only. GPU makes it 5–10x faster        |
+| Wrong/outdated answers          | Re-run scraper + ingest to refresh data               |
+| `ModuleNotFoundError`           | Run `pip install -r requirements.txt` again           |
+
+---
+
+## 📞 NUST Contact (for info not in chatbot)
+
+- **Website:** https://nust.edu.pk/admissions/
+- **Email:** admissions@nust.edu.pk
+- **Phone:** +92-51-90851001
+- **UAN:** 111-11-NUST (6878)

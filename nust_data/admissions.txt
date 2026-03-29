@@ -1,0 +1,27 @@
+TOPIC   : admissions_home
+URL     : https://nust.edu.pk/admissions/
+SCRAPED : 2026-03-29
+============================================================
+
+# Admissions
+NUST symbolises quality and excellence. Its spirited faculty, industrious students and excellent support infrastructure provide an academic environment, found only in the very best of the world universities.
+[](https://nust.edu.pk/admissions/undergraduates)
+##### Undergraduate
+NUST offers 40+ Undergraduate Programmes in the disciplines of Engineering & Technology, Computing & Information Technology, Life Sciences & Medicine, Arts & Humanities, Natural Sciences, Social Sciences, and Business & Management.
+[View Details](https://nust.edu.pk/admissions/undergraduates)
+[](https://nust.edu.pk/admissions/masters)
+##### Masters
+NUST offers Masters Programmes in 60+ streams of study in seven disciplines of Engineering, IT and Computer Science, Business Studies, Social Sciences and Architecture, and Natural sciences and Biotechnology.
+[View Details](https://nust.edu.pk/admissions/masters)
+[](https://nust.edu.pk/admissions/phd)
+##### PhD
+Being the dynamic face of higher education in Pakistan, NUST offers various PhD programmes in disciplines of Engineering, IT and Computer Science, Business Studies, Social Sciences, Natural Sciences and Biotechnology.
+[View Details](https://nust.edu.pk/admissions/phd)
+Scholarships
+[View All](https://nust.edu.pk/admissions/scholarships)
+  * [__NEED BASED FINANCIAL AID](https://nust.edu.pk/admissions/scholarships/need-based-financial-aid/)
+  * [__GUIDELINES TO SUBMIT NEED BASED FINANCIAL AID APPLICATION FORM (NFAAF)](https://nust.edu.pk/admissions/scholarships/guidelines-to-access-and-submit-need-based-financial-aid-application-form-nfaaf/)
+  * [__FINANCIAL ASSISTANCE FOR UNDERGRADUATE STUDENTS](https://nust.edu.pk/admissions/scholarships/financial-assistance-for-undergraduate-students/)
+  * [MBBS Admissions](/admissions/NSHS/)
+  * [BSHND Admissions](/admissions/alliedprogram/)
+  * [International Admissions](https://nio.nust.edu.pk/admissions/international-student-admissions/)
