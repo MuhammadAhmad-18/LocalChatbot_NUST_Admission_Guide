@@ -837,7 +837,7 @@ with st.sidebar:
 # ─────────────────────────────────────────────
 st.markdown('<div class="main-title">NUST Admissions Assistant</div>', unsafe_allow_html=True)
 st.markdown('<div class="main-subtitle">Your intelligent guide to admissions at NUST, Pakistan</div>', unsafe_allow_html=True)
-st.markdown('<div class="status-badge"><span class="status-dot"></span> Running Locally • No Internet Required</div>', unsafe_allow_html=True)
+st.markdown('<div class="status-badge"><span class="status-dot"></span> Running Locally</div>', unsafe_allow_html=True)
 
 # Load models
 with st.spinner("Loading AI models... (first load may take ~30 seconds)"):
